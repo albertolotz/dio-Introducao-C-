@@ -1,0 +1,16 @@
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.csprojAssemblyReference.cache
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/lotz/dio-study/primeiros passos com dot NET+C#/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
